@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image Compressor</string>
+    <string name="title_activity_select_picture">Image Compressor Demo</string>
+</resources>
